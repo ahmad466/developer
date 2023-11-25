@@ -1,0 +1,19 @@
+[
+	{
+		"chainId": 101,
+		"address": "DNDHC8y8LhzjZCvuxhTD93r14bDMuSfGsJnrpddhyMkC",
+		"symbol": "DANDEL INU",
+		"name": "DONG",
+		"decimals": 9,
+		"logoURI": "https://i.ibb.co/JRs5DD5/logo.png",
+		"tags": ["meme-token"],
+		"extensions": {
+			"twitter": "https://x.com/dandelsol.com",
+			"telegram": "https://t.me/dandelportal.com",
+			"website": "https://dandelinu.xyz"
+		}
+	}
+
+	
+]
+
